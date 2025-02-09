@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Controllers\\StudentController",
+    "\\Dtos",
+    "\\Dtos\\Course",
+    "\\Dtos\\Student",
+    "\\Dtos\\Teacher",
+    "\\Mappers",
+    "\\Repository"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
